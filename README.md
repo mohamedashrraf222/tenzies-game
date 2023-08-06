@@ -8,8 +8,13 @@ This is tenzies game that I have created for pratice while learning Reactjs. I c
 ## How to win
 
 you are able to hold the number by clicking on it so when you roll it will not change.
+  
 to win you have to roll and hold the number until makinng all squares with the same number.
-![image](https://github.com/mohamedashrraf222/tenzies-game/assets/45672956/9bd1b029-8b13-4ca3-b616-1bbde9233c21)
+  
+watch this GIF
+  
+![ezgif-5-7ddd85ed1e](https://github.com/mohamedashrraf222/tenzies-game/assets/45672956/91d98eac-85e3-4fcd-ad8d-f242e9579505)
+
 
 ## Demo
 
