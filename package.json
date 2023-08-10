@@ -25,6 +25,7 @@
     "babel-loader": "^7.0",
     "babel-preset-env": "*",
     "babel-preset-react": "*",
+    "gh-pages": "^4.0.0",
     "vite": "^3.2.3",
     "webpack": "^2.0"
   }
